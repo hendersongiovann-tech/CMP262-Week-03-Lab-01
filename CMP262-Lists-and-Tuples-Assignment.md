@@ -134,7 +134,7 @@ In a **Markdown cell**, answer the following questions in your own words:
 Use the following list:
 
 ```python
-student_scores = [78, 92, 85, 67, 95, 88, 73]
+    student_scores = [78, 92, 85, 67, 95, 88, 73]
 ```
 
 Write Python code that:
